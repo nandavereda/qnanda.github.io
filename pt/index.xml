@@ -5,6 +5,23 @@
 &lt;p>&lt;img src="https://www.vereda.tec.br/Buritis-em-Veredas-por-Denis-A-C-Conrado-Joao-Pinheiro-MG.jpg" alt="Buritis em Veredas, por Denis A. C. Conrado (João Pinheiro - MG)">&lt;/p>
 &lt;h1 id="motivação">Motivação&lt;/h1>
 &lt;p>Vereda Tecnologia é um projeto pessoal iniciado com duplo objetivo: perseguir a maestria em TI (tecnologia da informação) e solucionar incomôdos causados pelos produtos e serviços de TI disponíveis para uma pessoa física e usuária final.&lt;/p>
+&lt;h1 id="estratégia">Estratégia&lt;/h1>
+&lt;p>&lt;strong>Uso eficiente dos recursos disponíveis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Adotar softwares livres e de código aberto&lt;/li>
+&lt;li>Maximizar o benefício obtido dos dispositivos e equipamentos disponíveis.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Gerir riscos de maneira responsável&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Preservar a confidencialidade, integridade e disponibilidade das informações pessoais e comunitárias&lt;/li>
+&lt;li>Assumir responsabilidade por todos os elos da cadeia produtiva&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Transformar consumidores em produtores&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Facilitar o acesso à informação de qualidade&lt;/li>
+&lt;li>Priorizar a simplicidade e a qualidade sobre a conveniência&lt;/li>
+&lt;li>Aprender continuamente através da pesquisa e da experimentação&lt;/li>
+&lt;/ul>
 &lt;h1 id="frases-inspiracionais">Frases inspiracionais&lt;/h1>
 &lt;ul>
 &lt;li>&amp;ldquo;So the abstractions save us time working, but they don&amp;rsquo;t save us time learning.&amp;rdquo; - Joel Spolsky&lt;/li>
@@ -27,28 +44,5 @@
 &lt;li>É através da vulnerabilidade que a gente se conecta&lt;/li>
 &lt;li>Segurança é ter com quem contar; Estar em volta de quem confio; Proteção é não ser forçada/coagida.&lt;/li>
 &lt;li>Priorizar é decidir o que não fazer!&lt;/li>
-&lt;/ul>
-&lt;h1 id="estratégia">Estratégia&lt;/h1>
-&lt;ol>
-&lt;li>Uso eficiente dos recursos disponíveis&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>Adotar softwares livres e de código aberto&lt;/li>
-&lt;li>Maximizar o benefício obtido dos dispositivos e equipamentos disponíveis.&lt;/li>
-&lt;/ul>
-&lt;ol start="2">
-&lt;li>Gerir riscos de maneira responsável&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>Preservar a confidencialidade, integridade e disponibilidade das informações pessoais e comunitárias&lt;/li>
-&lt;li>Assumir responsabilidade por todos os elos da cadeia produtiva&lt;/li>
-&lt;/ul>
-&lt;ol start="3">
-&lt;li>Transformar consumidores dependentes em produtores autônomos&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>Facilitar o acesso à informação de qualidade&lt;/li>
-&lt;li>Priorizar a simplicidade e a qualidade sobre a conveniência&lt;/li>
-&lt;li>Aprender continuamente através da pesquisa e da experimentação&lt;/li>
 &lt;/ul></description></item><item><title>Olá Mundo</title><link>https://www.vereda.tec.br/pt/blog/hello-world/</link><pubDate>Mon, 07 Nov 2022 16:34:29 -0300</pubDate><guid>https://www.vereda.tec.br/pt/blog/hello-world/</guid><description>&lt;p>Olá, mundo!&lt;/p>
 &lt;p>Sou um arquivo &lt;strong>Markdown&lt;/strong> publicado no &lt;em>Github Pages&lt;/em> usando o &lt;strong>Hugo&lt;/strong> e o &lt;em>Github Actions&lt;/em>!&lt;/p></description></item></channel></rss>
