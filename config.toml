@@ -11,6 +11,8 @@ poweredby = true
 sidebar = true
 submitted = true
 logoPath = "ipe-amarelo.png"
+realfavicongenerator = true
+themeColor = "#da8020"
 
 [languages.en]
 weight = 2
