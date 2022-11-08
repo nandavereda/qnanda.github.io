@@ -1,2 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vereda Tecnologia</title><link>https://www.vereda.tec.br/</link><description>Recent content on Vereda Tecnologia</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 16:34:29 -0300</lastBuildDate><atom:link href="https://www.vereda.tec.br/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://www.vereda.tec.br/blog/hello-world/</link><pubDate>Mon, 07 Nov 2022 16:34:29 -0300</pubDate><guid>https://www.vereda.tec.br/blog/hello-world/</guid><description>&lt;p>Hello, world!&lt;/p>
-&lt;p>I am a &lt;strong>Markdown&lt;/strong> file published on &lt;em>Github Pages&lt;/em> using &lt;strong>Hugo&lt;/strong> and &lt;em>Github Actions&lt;/em>!&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vereda Tecnologia</title><link>https://www.vereda.tec.br/</link><description>Conteúdo recente em Vereda Tecnologia</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Mon, 07 Nov 2022 16:34:29 -0300</lastBuildDate><atom:link href="https://www.vereda.tec.br/index.xml" rel="self" type="application/rss+xml"/><item><title>Olá Mundo</title><link>https://www.vereda.tec.br/blog/hello-world/</link><pubDate>Mon, 07 Nov 2022 16:34:29 -0300</pubDate><guid>https://www.vereda.tec.br/blog/hello-world/</guid><description>&lt;p>Olá, mundo!&lt;/p>
+&lt;p>Sou um arquivo &lt;strong>Markdown&lt;/strong> publicado no &lt;em>Github Pages&lt;/em> usando o &lt;strong>Hugo&lt;/strong> e o &lt;em>Github Actions&lt;/em>!&lt;/p></description></item><item><title>Vereda</title><link>https://www.vereda.tec.br/blog/vereda/</link><pubDate>Thu, 26 May 2022 12:17:56 -0300</pubDate><guid>https://www.vereda.tec.br/blog/vereda/</guid><description>&lt;h1 id="introdução">Introdução&lt;/h1>
+&lt;p>Vereda é um tipo de formação vegetacional do Cerrado que ocorre principalmente nas florestas-galeria. Caracterizada pelos solos hidromórficos e por uma topografia amena e úmida, mantendo parte da umidade em estratos de solo superficial e garantindo a umidade mesmo em períodos de seca, tornando-se um refúgio da fauna e flora, assim como local de abastecimento hídrico para os animais. Recebe este nome por ser caminho para a fauna.
+&lt;a href="https://pt.wikipedia.org/wiki/Vereda_(cerrado)">Vereda (cerrado) | Wikipedia&lt;/a>&lt;/p>
+&lt;p>O direcionamento ou caminho que alguém segue em sua vida - &lt;a href="https://www.dicio.com.br/vereda/">www.dicio.com.br/vereda&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://www.vereda.tec.br/Buritis-em-Veredas-por-Denis-A-C-Conrado-Joao-Pinheiro-MG.jpg" alt="Buritis em Veredas, por Denis A. C. Conrado (João Pinheiro - MG)">&lt;/p>
+&lt;h1 id="motivação">Motivação&lt;/h1>
+&lt;p>Vereda Tecnologia é um projeto pessoal iniciado com duplo objetivo: perseguir a maestria em TI (tecnologia da informação) e solucionar incômodos causados pelos produtos e serviços de TI disponíveis para uma pessoa física e usuária final.&lt;/p>
+&lt;h1 id="estratégia">Estratégia&lt;/h1>
+&lt;p>&lt;strong>Uso eficiente dos recursos disponíveis&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Adotar softwares livres e de código aberto&lt;/li>
+&lt;li>Maximizar o benefício obtido dos dispositivos e equipamentos disponíveis.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Gerir riscos de maneira responsável&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Preservar a confidencialidade, integridade e disponibilidade das informações pessoais e comunitárias&lt;/li>
+&lt;li>Assumir responsabilidade por todos os elos da cadeia produtiva&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Transformar consumidores em produtores&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Facilitar o acesso à informação de qualidade&lt;/li>
+&lt;li>Priorizar a simplicidade e a qualidade sobre a conveniência&lt;/li>
+&lt;li>Aprender continuamente através da pesquisa e da experimentação&lt;/li>
+&lt;/ul>
+&lt;h1 id="frases-inspiracionais">Frases inspiracionais&lt;/h1>
+&lt;ul>
+&lt;li>&amp;ldquo;So the abstractions save us time working, but they don&amp;rsquo;t save us time learning.&amp;rdquo; - Joel Spolsky&lt;/li>
+&lt;li>&amp;ldquo;Advanced civilisations that survive are able to replicate and maintain their infrastructural patterns, to educate and innovate, or they die.&amp;rdquo; - Dr. Andy Farnell&lt;/li>
+&lt;li>&amp;ldquo;Usabilidade traz segurança&amp;rdquo; - Whonix&lt;/li>
+&lt;li>&amp;ldquo;The reward of a thing well done is to have done it.&amp;rdquo; - Ralph Waldo Emerson&lt;/li>
+&lt;li>&amp;ldquo;Se eu não comprar, o desconto é maior.&amp;rdquo; - Julius Rock&lt;/li>
+&lt;li>&amp;ldquo;Communications networks are the first thing to disable or compromise in any conflict.&amp;rdquo; - anon&lt;/li>
+&lt;li>&amp;ldquo;Never, ever, threat a team that has achieved rare success as replaceable cogs. If they&amp;rsquo;ve shipped, they can find more money people any time they want.&amp;rdquo; - anon&lt;/li>
+&lt;li>&amp;ldquo;Se o que estou comprando não é base para construir o que realmente quero, já sei que é problema.&amp;rdquo; - anon&lt;/li>
+&lt;li>&amp;ldquo;Tecnologia a serviço do estresse.&amp;rdquo; - Ana Paula Oliveira&lt;/li>
+&lt;li>&amp;ldquo;Se tem mais e só falta então não está pronto&amp;rdquo; - Erica Briones&lt;/li>
+&lt;li>Independência financeira é entender que se pode ter qualquer coisa que quiser, mas não tudo o que quiser. Controle e equilíbrio financeiros permitem aproveitar o hoje E o amanhã. Gestão financeira é mais sobre controle emocional do que cálculos;&lt;/li>
+&lt;li>Tudo que planejar levará 3 vezes mais tempo. Aprender sempre demora mais do que você imagina.&lt;/li>
+&lt;li>Use aquilo que você tem, até precisar de algo diferente. Quanto mais você adia uma grande compra, mais conhecimento sobre o assunto você pode adquirir, reduzindo a chance de desperdiçar dinheiro.&lt;/li>
+&lt;li>Nossos valores desafiam o status quo. Estaremos sempre remando contra a maré.&lt;/li>
+&lt;li>A dificuldade técnica é banal; O desafio é humano.&lt;/li>
+&lt;li>Somos técnicas e artistas&lt;/li>
+&lt;li>Não forçar nossa vontade e crença sobre os outros&lt;/li>
+&lt;li>É através da vulnerabilidade que a gente se conecta&lt;/li>
+&lt;li>Segurança é ter com quem contar; Estar em volta de quem confio; Proteção é não ser forçada/coagida.&lt;/li>
+&lt;li>Priorizar é decidir o que não fazer!&lt;/li>
+&lt;/ul></description></item></channel></rss>
