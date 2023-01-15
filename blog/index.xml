@@ -39,6 +39,7 @@
 &lt;li>rclone 1.53.3-1+b6&lt;/li>
 &lt;li>vorta client 0.7.5-1&lt;/li>
 &lt;/ul>
+&lt;p>Nota: O procedimento foi validado com o sistema operacional e softwares mencionados acima, mas esse procedimento provavelmente funciona em qualquer sistema linux ou demais sistemas suportados pelo Borg Backup.&lt;/p>
 &lt;h2 id="vorta-profile">Vorta Profile&lt;/h2>
 &lt;p>Execute o programa Vorta e crie seu repositório local. Esta página tem um guia de 5 minutos para fazê-lo a partir do passo 2: &lt;a href="https://web.archive.org/web/20221217124626/https://vorta.borgbase.com/usage/local/#step-2---setting-up-local-repository">Setting up Vorta for Local Backups&lt;/a>&lt;/p>
 &lt;p>Após configurar o repositório, ajuste as demais configurações do seu perfil como a seguir:&lt;/p>
