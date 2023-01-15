@@ -2,7 +2,7 @@
 title: "Configurando backups (estação de trabalho)"
 date: 2022-12-18T18:56:16-03:00
 draft: false
-situação: "Em validação"
+situação: "Validado"
 duration: "1 hora"
 
 ---
@@ -58,6 +58,9 @@ Apenas para referência, abaixo está a versão específica dos softwares:
 - python3 3.9.2-3
 - rclone 1.53.3-1+b6
 - vorta client 0.7.5-1
+
+Nota: O procedimento foi validado com o sistema operacional e softwares mencionados acima, mas esse procedimento provavelmente funciona em qualquer sistema linux ou demais sistemas suportados pelo Borg Backup.
+
 
 ## Vorta Profile
 
