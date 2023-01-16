@@ -1,0 +1,12 @@
+{{ define "main" -}}
+<main>
+    <header>  
+        <h1>{{ .Title }}</h1>  
+        <p>{{ i18n "article_author_by" }} Fernanda Queiroz</p>
+        <p><time>{{ .PublishDate | time.Format "2006-01-02" }}</time> | {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }} read</p>
+    </header>
+    <article>  
+        {{ .Content }}  
+    </article>
+</main>  
+{{ end }}  

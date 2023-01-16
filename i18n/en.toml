@@ -1,0 +1,14 @@
+[article_author_by]
+other = "By"
+
+[footer_copyright_pre]
+other = "This site is licensed under a"
+
+[footer_copyright_post]
+other = " License."
+
+[footer_poweredby_pre]
+other = "Crafted in São Paulo, Brazil, using "
+
+[footer_poweredby_post]
+other = "; Hosted by "

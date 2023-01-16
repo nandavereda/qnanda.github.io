@@ -1,17 +1,15 @@
 baseURL = "https://www.vereda.tec.br/"
 title = "Vereda Tecnologia"
-theme = "zen"
 pluralizelisttitles = false
 removepathaccents = true
 paginatePath = "p"
 defaultContentLanguage = "pt"
 
 [params]
-poweredby = true
+custom_css = ["css/style.css"]
 sidebar = true
 submitted = true
 logoPath = "ipe-amarelo.png"
-realfavicongenerator = true
 themeColor = "#da8020"
 
 [languages.en]
@@ -19,14 +17,8 @@ weight = 2
 languageName = "English"
 languageCode = "en-us"
 
-[languages.en.params]
-copyright = "This site is licensed under a [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) License."
-
 [languages.pt]
 weight = 1
 languageName = "Português"
 languageCode = "pt-br"
-
-[languages.pt.params]
-copyright = "Este site está licenciado com uma Licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 

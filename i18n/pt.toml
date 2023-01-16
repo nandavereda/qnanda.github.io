@@ -1,0 +1,14 @@
+[article_author_by]
+other = "Por"
+
+[footer_copyright_pre]
+other = "Este site está licenciado com uma Licença"
+
+[footer_copyright_post]
+other = "."
+
+[footer_poweredby_pre]
+other = "Feito em São Paulo, Brasil, com "
+
+[footer_poweredby_post]
+other = "; Servido por "

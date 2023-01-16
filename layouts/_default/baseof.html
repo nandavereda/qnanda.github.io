@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default site.Language.Lang }}" dir="{{ site.Language.LanguageDirection | default "ltr" }}">
+{{- partial "head.html" . -}}
+
+<body>
+<header>
+    <section>
+    <a href="{{ "" | relLangURL }}" title="Home" rel="home"><img src="/ipe-amarelo.png" alt="Home"></a>
+    <h1>
+        <a href="{{ "/" | relLangURL }}" title="Home" rel="home"><span>{{ site.Title }}</span></a>
+    </h1>
+    {{ if .IsTranslated }}{{ partial "language-selector.html" . }}{{ end }}
+    </section>
+<nav>
+<menu>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/">Contato</a></li>
+    <li><a href="/">Sobre</a></li>
+    <li></li>
+</menu>
+</nav>
+</header>
+
+{{ define "title" }}{{ site.Title }}{{ end }}
+
+{{ block "main" . }}{{ end }}
+
+<footer>
+    <p>{{ i18n "footer_copyright_pre" }} <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>{{ i18n "footer_copyright_post" }}</p>
+    <p>{{ i18n "footer_poweredby_pre" }}<a href="https://gohugo.io/">Hugo</a>{{ i18n "footer_poweredby_post" }}<a href="https://pages.github.com">Github Pages</a>.</p>
+</footer>
+</body>
+</html>
